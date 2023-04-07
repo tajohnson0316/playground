@@ -1,0 +1,9 @@
+.square {
+    height: 10rem;
+    width: 10rem;
+    border: 0.25rem solid black;
+}
+
+.container-playground {
+    width: 47.5%;
+}
